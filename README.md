@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @E-Olsen
 - 👀 I’m interested in several manufacturing processes, both addative and reductive methods (3d printing, wood working and metalworking)
-- 🌱 I’m currently learning how to use 3d CADCAM with a focus on FreeCAD
+- 🌱 I’m currently learning Meshtastic/LoRA, ESP32 programming and setting up ESPHome/Home Assistant.
 
 
 <!---
